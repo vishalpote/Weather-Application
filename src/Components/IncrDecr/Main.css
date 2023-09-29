@@ -1,0 +1,23 @@
+
+
+.button1
+{
+    width:100px;
+    background-color: green;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.button2
+{
+    width:100px;
+    background-color: red;
+    height: 100px;
+    margin-left: 30px;
+    border-radius: 10px;
+
+}
+p{
+    color: white;
+    font-size: 50px;
+}
